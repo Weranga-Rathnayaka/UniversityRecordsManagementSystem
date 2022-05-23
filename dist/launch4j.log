@@ -1,0 +1,14 @@
+
+
+Version:	3.14
+CmdLine:	C:\Users\weran\Documents\NetBeansProjects\UniversityRecordsManagementSystem\dist\UniversityRecordsManagement System.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\weran\Documents\NetBeansProjects\UniversityRecordsManagementSystem\dist\.
+Java min ver:	
+Java max ver:	
+Bundled JRE(s):	jre
+Check launcher:	C:\Users\weran\Documents\NetBeansProjects\UniversityRecordsManagementSystem\dist\jre\bin\javaw.exe (OK)
+Launcher:	C:\Users\weran\Documents\NetBeansProjects\UniversityRecordsManagementSystem\dist\jre\bin\javaw.exe
+Launcher args:	-jar "C:\Users\weran\Documents\NetBeansProjects\UniversityRecordsManagementSystem\dist\UniversityRecordsManagement System.exe"
+Args length:	126/32768 chars
+Exit code:	0
